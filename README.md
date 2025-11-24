@@ -193,3 +193,12 @@ sys.path.append(".")
 ## 📬 Support
 
 If anything is unclear or you want the README adapted for internal documentation, just let me know!
+
+
+## 📦 Download
+
+[📥 Download ZIP (v1.0.0)](https://github.com/vikinganalytics/multiviz-connector-template/releases/download/v1.0.0/multiviz-connector-template-v1.0.0.zip)
+
+Or always get the newest version:
+
+[⭐ Latest release](https://github.com/vikinganalytics/multiviz-connector-template/releases/latest)
